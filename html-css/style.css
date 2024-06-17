@@ -1,0 +1,29 @@
+*{
+    box-sizing:border-box;
+}
+
+.parent {
+    display: flex;
+    flex-wrap:wrap;
+}
+
+.child{
+    width: 25%;
+    height: 100px;
+    background-color: purple;
+    border: 5px solid #fff;
+}
+
+.child-2{
+    width: 50%;
+    height: 100px;
+    background-color: purple;
+    border: 5px solid #fff;
+}
+
+.child-3{
+    width: 16.6%;
+    height: 100px;
+    background-color: purple;
+    border: 5px solid #fff;
+}
